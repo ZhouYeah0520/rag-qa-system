@@ -1,0 +1,7 @@
+[
+  {"question": "年假需要提前几天申请？", "answer_contains": "3 个工作日"},
+  {"question": "差旅报销多久内提交？", "answer_contains": "10 个工作日"},
+  {"question": "VPN 连续登录多久会自动断开？", "answer_contains": "12 小时"},
+  {"question": "办公设备故障怎么报修？", "answer_contains": "IT 工单"},
+  {"question": "单笔多少元的报销需要加签？", "answer_contains": "5000"}
+]

@@ -1,0 +1,4 @@
+# 核心功能（md/txt 文档 + TF-IDF 检索 + 抽取式回答）仅用标准库，无需安装。
+# 解析 PDF / DOCX 时需要：
+pypdf>=4.0
+python-docx>=1.1
