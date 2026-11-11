@@ -44,6 +44,17 @@ python -m rag_qa ask "年假需要提前几天申请？"
 
 ## 接入大模型 API（生成式回答）
 
+**DeepSeek**（OpenAI 兼容，国内可用）：
+
+```bash
+python -m rag_qa ask "年假需要提前几天申请？" \
+  --api-key "你的DeepSeek key" \
+  --base-url "https://api.deepseek.com" \
+  --model "deepseek-chat"
+```
+
+**通义千问（DashScope）**：
+
 ```bash
 python -m rag_qa ask "年假需要提前几天申请？" \
   --api-key "你的key" \
